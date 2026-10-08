@@ -1,0 +1,6 @@
+streamlit
+pypdf
+chromadb
+pydantic
+agent-framework --pre
+agent-framework-ollama --pre
