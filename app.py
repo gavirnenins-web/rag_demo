@@ -6,7 +6,6 @@ from rag import build_index, index_exists, get_index_info, ask_agent
 
 st.set_page_config(page_title="PDF Chat", page_icon="📄", layout="wide")
 
-# Small amount of CSS so it looks like a normal student project rather than a template.
 st.markdown("""
 <style>
 .block-container {max-width: 1050px; padding-top: 2rem;}
