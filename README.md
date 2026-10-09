@@ -60,11 +60,7 @@ streamlit run app.py
 
 Then open the local Streamlit address shown in the terminal.
 
-## Notes
 
-This version intentionally avoids Azure services. It still uses Microsoft Agent Framework for the agent/tool part, while Ollama handles local inference and embeddings and ChromaDB handles local vector storage.
-
-Scanned/image-only PDFs need OCR before this simple version can extract their text.
 
 
 ### Vector storage
